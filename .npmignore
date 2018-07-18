@@ -12,5 +12,6 @@ test-results.json
 mount-deep-tree-trace.json
 mount-wide-tree-trace.json
 update-dynamic-styles-trace.json
+flow-typed
 
 benchmarks
